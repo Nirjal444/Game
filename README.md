@@ -5,4 +5,3 @@ The tictactoe file uses - tkinter package (tk). You will need to install this on
 
 The paddle file is not quite correct and needs to be corrected. 
 
-But first download this repo and then create your own on your github page. This will be good practice for other endeavors. 
